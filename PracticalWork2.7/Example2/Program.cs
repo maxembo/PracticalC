@@ -17,6 +17,7 @@ namespace Example2
             Console.WriteLine($"Средний балл:{Math.Round(averageScore,1)}");
 
             Console.ReadKey();
+
         }
     }
 }
